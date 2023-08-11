@@ -1,0 +1,1 @@
+/home/tg/.config/nvim-edit/lua/tg/set.lua

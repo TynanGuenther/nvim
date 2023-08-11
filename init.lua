@@ -1,1 +1,1 @@
-nvim-edit/init.lua
+/home/tg/.config/nvim-edit/init.lua
