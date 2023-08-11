@@ -1,1 +1,1 @@
-require("tg")
+nvim-edit/init.lua
