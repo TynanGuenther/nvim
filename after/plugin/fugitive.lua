@@ -1,1 +1,1 @@
-/home/tg/.config/nvim-edit/after/plugin/fugitive.lua
+vim.keymap.set("n", "<leader>gs", vim.cmd.Git)

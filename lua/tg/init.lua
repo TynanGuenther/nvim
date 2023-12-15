@@ -1,1 +1,2 @@
-/home/tg/.config/nvim-edit/lua/tg/init.lua
+require("tg.set")
+require("tg.remap")
